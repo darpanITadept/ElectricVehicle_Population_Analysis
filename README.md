@@ -2,9 +2,10 @@
 
 ## Tableau Visualization
 
+[Tableau Viz Link]([https://public.tableau.com/app/profile/darpan.choudhary/viz/BikeSalesAnalysis_16985812629360/SalesDashboard?publish=yes](https://public.tableau.com/app/profile/darpan.choudhary/viz/EVPopluationAnalysisWashington/Dashboard1))
+
 <img width="1510" alt="Screenshot 2023-11-10 at 1 15 26 PM" src="https://github.com/darpanITadept/ElectricVehicle_Population_Analysis/assets/112990024/cf8230fc-f348-4d83-b151-f02b65c50815">
 
-Explore the live Tableau visualization [here]([[link_to_your_tableau_profile](https://public.tableau.com/app/profile/darpan.choudhary/viz/EVPopluationAnalysisWashington/Dashboard1)]()).
 
 ## Project Overview
 
